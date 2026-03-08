@@ -1,0 +1,147 @@
+
+
+
+This globally parameterized Metric 600, Miniature Series library contains the following bearings in both SolidWorks and Step formats:
+
+603-ZZ
+604-ZZ
+605-ZZ
+606-ZZ
+607-ZZ
+608-ZZ
+609-ZZ
+623-ZZ
+624-ZZ
+625-ZZ
+626-ZZ
+627-ZZ
+628-ZZ
+629-ZZ
+633-ZZ
+634-ZZ
+635-ZZ
+636-ZZ
+637-ZZ
+638-ZZ
+639-ZZ
+673-ZZ
+674-ZZ
+675-ZZ
+676-ZZ
+677-ZZ
+678-ZZ
+683-ZZ
+684-ZZ
+685-ZZ
+686-ZZ
+687-ZZ
+688-ZZ
+689-ZZ
+693-ZZ
+694-ZZ
+695-ZZ
+696-ZZ
+697-ZZ
+698-ZZ
+699-ZZ
+
+
+
+Global parameterization enables generating models of like bearings in seconds.
+
+Filenames alphanumerically organize material by ID, OD, width, and bearing identifier:
+
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  3mm ID × 10 OD × 4 W  —  623-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  3mm ID × 13 OD × 5 W  —  633-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  3mm ID × 6 OD × 2 W  —  673-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  3mm ID × 7 OD × 2 W  —  683-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  3mm ID × 8 OD × 3 W  —  693-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  3mm ID × 9 OD × 3 W  —  603-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  4mm ID × 11 OD × 4 W  —  694-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  4mm ID × 12 OD × 4 W  —  604-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  4mm ID × 13 OD × 5 W  —  624-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  4mm ID × 16 OD × 5 W  —  634-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  4mm ID × 7 OD × 2 W  —  674-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  4mm ID × 9 OD × 2.5 W  —  684-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  5mm ID × 11 OD × 3 W  —  685-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  5mm ID × 13 OD × 4 W  —  695-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  5mm ID × 14 OD × 5 W  —  605-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  5mm ID × 16 OD × 5 W  —  625-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  5mm ID × 19 OD × 6 W  —  635-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  5mm ID × 8 OD × 2 W  —  675-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  6mm ID × 10 OD × 2.5 W  —  676-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  6mm ID × 13 OD × 3.5 W  —  686-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  6mm ID × 15 OD × 5 W  —  696-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  6mm ID × 17 OD × 6 W  —  606-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  6mm ID × 19 OD × 6 W  —  626-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  6mm ID × 22 OD × 7 W  —  636-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  7mm ID × 11 OD × 2.5 W  —  677-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  7mm ID × 14 OD × 3.5 W  —  687-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  7mm ID × 17 OD × 5 W  —  697-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  7mm ID × 19 OD × 6 W  —  607-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  7mm ID × 22 OD × 7 W  —  627-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  7mm ID × 26 OD × 9 W  —  637-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  8mm ID × 12 OD × 2.5 W  —  678-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  8mm ID × 16 OD × 4 W  —  688-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  8mm ID × 19 OD × 6 W  —  698-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  8mm ID × 22 OD × 7 W  —  608-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  8mm ID × 24 OD × 8 W  —  628-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  8mm ID × 28 OD × 9 W  —  638-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  9mm ID × 17 OD × 4 W  —  689-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  9mm ID × 20 OD × 6 W  —  699-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  9mm ID × 24 OD × 7 W  —  609-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  9mm ID × 26 OD × 8 W  —  629-ZZ
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED  9mm ID × 30 OD × 10 W  —  639-ZZ
+
+
+
+Two copies of the template file are also furnished:
+
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED —     template.SLDPRT
+p  BEARING, METRIC 600 MINIATURE SERIES, DOUBLE-SHIELDED —     template Copy.SLDPRT
+
+
+
+These sealed bearing models are intentionally simplified, lightweight representations, which enable generating like models in seconds by modifying as many as three equation values, and revising indicia. The three inputs are located at the top of the each model's integral equations file:
+
+_i__BORE
+_i__OUTSIDE_DIAMETER
+_i__WIDTH
+
+
+
+Thus to create a further bearing model from any of the SLDPRT files, you may:
+
+1. 	Rename a copy of the source file to reflect the dimensions and normative indicia of your intended model;
+
+2.	next, open that file; right-click "Equations" in its feature manager; and select "Manage equations" from the responding popup;
+
+3.	assign the required values to _i__BORE, _i__OUTSIDE_DIAMETER, and _i__WIDTH;
+
+4.	OK-close the equations interface (the model should automatically rebuild), save your file; and except for revising your indicia, you have your new bearing.
+
+
+
+To apply appropriate indicia to your new model, first expand your equation tree and note the value of the equation parameter "_user_applied_FONT_SIZE." This equation calculates a reasonable font size for the exhibited pattern of indicia. But owing to feeble parametization support, you will have to manually assign both this font-height value and your indicia text in the following steps:
+
+5.	Expand the bottom INDICIA folder in your file's feature manager;
+
+6.	expand the "Boss-Extrude SEAL LABEL 1" feature within that folder and open its sketch, "Sketch TEXT RADIUS 1";
+
+7.	double-click the text in that sketch to open the text feature in your feature manager;
+
+8.	input the desired text indicia into the text field;
+
+9.	click the Font button below, and assign the value of __user_applied_FONT_SIZE to your text height field (which must remain toggled to "units");
+
+10.	OK-close the font dialog and sketch, and apply the same steps 5-10 to Sketch TEXT RADIUS 2 of Boss-Extrude SEAL LABEL 2, and you have your new bearing.
+
+
+
+Obvious further relationships in the remaining formulae make it possible to further customize these files to generate representations of further, like bearing formats.
+
+
+
+(C)  Copyright 20240217 by mike montagne. Free to use for CAD purposes, not to re-publish or redistribute in any form.
+
+
